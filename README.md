@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an example of a potential bug related to pointer usage. The bug involves using a pointer to modify an integer variable.  The solution shows a corrected version.
